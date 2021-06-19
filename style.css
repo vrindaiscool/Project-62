@@ -1,0 +1,145 @@
+body {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 5px 5px 5px purple, 0 0 20px blue, 0 0 10px white;
+    background: linear-gradient(#a4fca6 0%, purple 100%);
+    
+}
+
+h {
+    font-size: 30px;
+    font-family: 'Courgette', cursive;
+    font-weight: 300;
+}
+
+#Apps {
+    
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(#a4fca6 0%, #0e00ad 100%);
+
+
+}
+
+#Games {
+    width: 100%;
+    height: 800px;
+    background-color: #bbb8ff;
+
+}
+
+#ChatBot {
+    width: 100%;
+    height: 800px;
+    background-color: #e8b8ff;
+
+}
+
+img {
+    transition: transform 0.9s;
+    height=200px;
+    width: 200px;
+    border-radius: 30px;
+
+}
+
+
+img:hover {
+    transform: scale(0.9);
+}
+
+.line {
+    height: 6px;
+    background: black;
+    width: 70px;
+    margin: auto;
+}
+
+#mycarousel {
+     
+   
+    
+background: linear-gradient(red 0%, orange  100%);
+    
+}
+
+#mycarousel img {
+    height: 300px;
+    margin-top: 35px;
+
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: rebeccapurple;
+    font-size: 20px;
+}
+
+.img-responsive {
+    height: auto;
+    width: auto;
+}
+
+.menu {
+    position: fixed;
+    background: black;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.links:hover {
+    background-color: #0028db;
+    text-decoration-line: underline;
+    font-size: 25px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#yas{
+    height: 600px;
+    width:600px;
+ 
+}
+
+#Home {
+    background: linear-gradient(blue 0%, pink 100%);
+}
+
+#orange{
+    color:orange;
+}
+
+#blue{
+    color:blue;
+    
+}
+
+#pink{
+    color:pink;
+}
+
+#purple{
+    color:mediumpurple;
+    
+}
+
+#red{
+    color:red;
+}
+
+#slideshow{
+    background: linear-gradient(red 0%, orange  100%);
+}
